@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\bin\Debug\QUANLYPHONGMAY.exe.config
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\bin\Debug\QUANLYPHONGMAY.exe
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\bin\Debug\QUANLYPHONGMAY.pdb
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\obj\Debug\QUANLYPHONGMAY.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\obj\Debug\QUANLYPHONGMAY.frmDangNhap.resources
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\obj\Debug\QUANLYPHONGMAY.Properties.Resources.resources
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\obj\Debug\QUANLYPHONGMAY.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\obj\Debug\QUANLYPHONGMAY.exe
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\obj\Debug\QUANLYPHONGMAY.pdb
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\obj\Debug\QUANLYPHONGMAY.frmHeThong.resources
+C:\Users\Admin\Documents\dai_hoc\namhai\LT.N_lap_trinh.net\đề ôn tập cuối kì\QUANLYPHONGMAY\QUANLYPHONGMAY\obj\Debug\QUANLYPHONGMAY.frmLichDangKy.resources
